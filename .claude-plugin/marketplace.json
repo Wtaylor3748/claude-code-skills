@@ -50,6 +50,17 @@
       "skills": [
         "./skills/claude-api"
       ]
+    },
+    {
+      "name": "collana-skills",
+      "description": "Custom skills from our own team",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/git-commit-message",
+        "./skills/terraform-pr-reviewer",
+        "./skills/write-pr"
+      ]
     }
   ]
 }
