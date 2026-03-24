@@ -23,3 +23,7 @@ Installation
 ```
 claude mcp add azure-devops -- npx -y @azure-devops/mcp <YourOrgName>
 ```
+
+# Anatomy of Claude folder
+
+<img width="1166" height="1176" alt="image" src="https://github.com/user-attachments/assets/045e3e36-4ac7-40a6-9d78-acdf97ca0f19" />
